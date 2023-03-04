@@ -12,3 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadh1l&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=fadh1l)
+
