@@ -4,6 +4,7 @@
 - 📌 More about me at:
    - 💻 [Personal Portfolio](https://fadh1l.github.io/index.html)
    - 🏢 [LinkedIn](https://www.linkedin.com/in/fadhil-kolakkadan/)
+   - 💻 [Blog](https://fadh1l.github.io/TheBlog/)
 - 🤙 Contact me at:
    - 📧 [Email](fadhilko@gmail.com)
 
